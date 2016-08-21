@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YQR2T8V6FV.net.swipe.inhouse.square",
+        "paths": [ "*" ]
+      },
+      {
+        "appID": "SU23HZ3B54.net.swipe.square",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
